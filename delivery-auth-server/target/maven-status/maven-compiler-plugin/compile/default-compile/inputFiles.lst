@@ -1,0 +1,12 @@
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/service/UserDetailsService.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/model/Authority.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/config/ResourceServerConfiguration.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/config/CorsFilterConfiguration.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/model/User.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/config/WebSecurityConfig.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/DeliveryAuthServerApplication.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/config/AuthorizationServerConfiguration.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/repository/UserRepository.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/controller/AuthController.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/repository/AuthorityRepository.java
+/home/basis/Documentos/estudos/delivery/delivery-cloud/delivery-auth-server/src/main/java/com/jeanpandolfi/deliveryauthserver/domain/Authorities.java
